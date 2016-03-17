@@ -1,0 +1,104 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+
+.clearfix {
+  *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+/* INDEX - HEADER - KARLA*/
+.tigre {
+	background-image: url("../images/slider/bg1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+#myNavbar {
+	background-color: transparent;
+	border-bottom: hidden;
+	margin-bottom: 0px;
+}
+.inline {
+	display: inline-block;
+}
+.text-white {
+	color: white;
+}
+.bk-azul {
+	background-color: #24495E;
+	height: 70px;
+}
+.logo-size {
+	font-size: 20px;
+	padding-right: 400px;
+}
+header li:hover {
+	background-color: #142834 !important;
+}
+
+/*SECTION TIGRE KARLA*/
+.power-div {
+	margin-top: 250px;
+}
+/* Section redes*/
+.aqua {
+	background-color: #2ECC71;
+	height: 200px;
+}
+.circle-div {
+	width: 50px;
+	height: 50px;
+	background-color: #535d60;
+	border-radius: 50px;
+	opacity: .5;
+	margin-bottom: 40px;
+}
+.icon-twitt {
+	font-size: 40px;
+	float: left;
+	width: 16%;
+	margin-left: 6px;
+	margin-top: 7px;
+}
+.div-text {
+	width: 76%;
+	padding-top: 40px;
+	padding-left: 10px;
+}
+/* .......... FOOTER - CECILIA .......... */
+.bg-blue {
+	background: #34495E;
+	color: #ccc;
+}
+.text-white {
+	color: white;
+}
+footer ul li {
+	list-style-type: none;
+}
+footer a {
+	color: #ccc;
+}
+footer a:hover {
+	text-decoration: none;
+	color: white;
+}
+footer .nav-pills li {
+	float: right !important;
+}
+.nav-pills li a:hover {
+	background: none;
+}
+/* ............... HOME ...............*/
+.pagination a {
+	background: #D9534F !important;
+	color: white;
+	border:1px solid #B94A48 !important;
+}

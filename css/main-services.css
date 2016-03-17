@@ -1,0 +1,93 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+
+.clearfix {
+  *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+/* #F5F5F5 /*/
+.tamano-icono{
+	font-size: 45px;
+	text-align: center;
+}
+.color-gray-icono{
+	background-color: gray;
+	border-radius: 50%;
+	height: 60px;
+	}
+.tamano-h3{
+	font-size:1em;
+}
+.padd-3{
+	padding: 3px;
+}
+.padd-5{
+	padding:10px;
+}
+/* colores*/
+.color-green{
+	background:#848484;
+}
+.color-white-icon{
+	color: white;
+}
+.color-green-one{
+	background: #2ECC71;
+}
+.color-white{
+	color: white;
+}
+/* .......... FOOTER .......... */
+.bg-blue {
+	background: #34495E;
+	color: #ccc;
+}
+.text-white {
+	color: white;
+}
+.pd-30 {
+	padding: 30px 0;
+}
+footer ul li {
+	list-style-type: none;
+}
+footer a {
+	color: #ccc;
+}
+footer a:hover {
+	text-decoration: none;
+	color: white;
+}
+footer .nav-pills li {
+/* BLOG - HEADER */
+.tigre {
+	background-image: url("../images/slider/bg1.jpg");
+	background-size: cover;
+	height: 500px;
+}
+.inline {
+	display: inline-block;
+}
+.text-white {
+	color: white;
+}
+.bk-azul {
+	background-color: #24495E;
+	height: 70px;
+}
+.logo-size {
+	font-size: 20px;
+	padding-right: 400px;
+}
+header li:hover {
+	background-color: #142834 !important;
+}
+

@@ -1,0 +1,135 @@
+ul{                     /*caracterristicas de menu*/
+	list-style: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+	text-decoration: none;
+	text-align: right;
+}
+/*tamano letras*/
+.tamano-titulo{
+	font-size: 2em;
+}
+.tamano-tags{
+	font-size: 20px;
+}
+.tamano-p-one{
+	font-size: 12px;
+}
+/*tag*/
+.tag{
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
+/*Display*/
+.inline-block{
+	display: inline-block;
+}
+.block{
+	display: block;
+}
+.inline{
+	display: inline-block;
+}
+/*John Doe*/
+.color-gray-box{
+	height: auto;
+	width: 100%;
+	background-color: #D8D8D8;
+}
+/*Colores*/
+.back-white{
+	background-color: white;
+	height: auto;
+	width: 100%;
+	margin: 0;
+	padding: 2%;
+}
+.color-green{
+	background: #2ECC71;
+}
+.color-white{
+	color: white;
+}
+.color-gray{
+	background: #D8D8D8;
+}
+/*Padding*/
+.mg-15{
+	padding-left: 15px;
+}
+.padd-3{
+	padding: 3%;
+}
+.padd-4{
+	padding: 10px;
+}
+/*margin*/
+.mar-bt{
+	margin-bottom: 2%;
+}
+.mar-tp{
+	margin-top: 2%;
+}
+.padd-5{
+	padding-top: 5%;
+}
+
+/* ...Buttons tag..... */
+
+.tamano-btn{
+	width: 18%  !important;
+}
+.tamano-text-btn{
+	font-size: 12px !important;
+}
+.mar-btn{
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+/* .......... FOOTER .......... */
+.bg-blue {
+	background: #34495E;
+	color: #ccc;
+}
+.text-white {
+	color: white;
+}
+.pd-30 {
+	padding: 30px 0;
+}
+footer ul li {
+	list-style-type: none;
+}
+footer a {
+	color: #ccc;
+}
+footer a:hover {
+	text-decoration: none;
+	color: white;
+}
+.tigre {
+	background-image: url("../images/slider/bg1.jpg");
+	background-size: cover;
+	height: auto;
+}
+.inline {
+	display: inline-block;
+}
+.text-white {
+	color: white;
+}
+.bk-azul {
+	background-color: #24495E;
+	height: 70px;
+}
+.logo-size {
+	font-size: 20px;
+	padding-right: 400px;
+}
+header li:hover {
+	background-color: #142834 !important;
+}

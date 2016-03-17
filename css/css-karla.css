@@ -1,0 +1,210 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+
+.clearfix {
+  *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+
+/* INDEX - HEADER - KARLA*/
+.tigre {
+	background-image: url("../images/slider/bg1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+#myNavbar {
+	background-color: transparent;
+	border-bottom: hidden;
+	margin-bottom: 0px;
+}
+.inline {
+	display: inline-block;
+}
+.text-white {
+	color: white;
+}
+.bk-azul {
+	background-color: #24495E;
+	height: 70px;
+}
+.logo-size {
+	font-size: 20px;
+	padding-right: 400px;
+}
+header li:hover {
+	background-color: #142834 !important;
+}
+
+/*SECTION TIGRE KARLA*/
+.power-div {
+	margin-top: 250px;
+}
+/* Section redes*/
+.aqua {
+	background-color: #2ECC71;
+	height: 200px;
+}
+.circle-div {
+	width: 50px;
+	height: 50px;
+	background-color: #535d60;
+	border-radius: 50px;
+	opacity: .5;
+	margin-bottom: 40px;
+}
+.icon-twitt {
+	font-size: 40px;
+	float: left;
+	width: 16%;
+	margin-left: 6px;
+	margin-top: 7px;
+}
+.div-text {
+	width: 76%;
+	padding-top: 40px;
+	padding-left: 10px;
+}
+
+/* .......... FOOTER .......... */
+.bg-blue {
+	background: #34495E;
+	color: #ccc;
+}
+.text-white {
+	color: white;
+}
+.pd-30 {
+	padding: 30px 0;
+}
+footer ul li {
+	list-style-type: none;
+}
+footer a {
+	color: #ccc;
+}
+footer a:hover {
+	text-decoration: none;
+	color: white;
+}
+footer .nav-pills li {
+	float: right !important;
+}
+
+/* SECTION BLOG  karla*/
+.blog-div {
+	margin-top: 40px;
+}
+
+/*<!-- SECTION MAIN CONTENT KARLA -->*/
+.bk-gray {
+	background-color: #F5F5F5;
+	height: 1400px;
+}
+.bk-white-corbata {
+	width: 730px;
+	height: 540px;
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 50px;
+}
+.corbata {
+	width: 300px;
+	height: 300px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+.input-main {
+	width: 300px;
+	height: 30px;
+	border-radius: 8px;
+	margin-top: 50px;
+}
+.gray {
+	color: gray;
+}
+.p-icon {
+	font-size: 15px;
+}
+.div-icons {
+	width: 650px;
+	height: 50px;
+	margin: 0px;
+}
+.mg-15 {
+	margin-left: 15px;
+}
+.mt-10 {
+	margin-top: 10px;
+}
+.mt-20 {
+	margin-top: 20px;
+}
+.mt-40 {
+	margin-top: 40px;
+}
+.pt-15 {
+	padding-top: 15px;
+}
+.corbata2 {
+	margin-top: -20px;
+	width: 300px;
+	height: 300px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+.ads-size {
+	width: 160px;
+	height: 140px;
+	border-radius: 10px;
+	margin-left: -30px;
+}
+.pr-5 {
+	padding-left: 10px;
+}
+.div-ads {
+	height: 400px;
+}
+.list-m {
+	margin-left: -50px;
+}
+.relative {
+	position: relative;
+}
+.style-list {
+	list-style-type: none;
+}
+.text-black {
+	color: black;
+}
+.btns-size {
+	width: 15px;
+	height: 15px;
+
+}
+
+/*<!-- SECTION IMAGENES KARLA -->*/
+.item-size {
+	width: 330px;
+	height: 250px;
+}
+.bk-items {
+	background-color: #F5F5F5;
+	height: 700px;
+}
+.fondo-blanco {
+	background-color: white;
+
+}
+.pl-5 {
+	margin-left: 15px; 
+	padding-top: 10px;
+}
